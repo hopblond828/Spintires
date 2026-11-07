@@ -209,4 +209,4 @@ This repository serves as the official landing page for Spintires. The software 
 **Get the most recent version of Spintires today!**
 
 ---
-**Last updated:** 2026-11-07 19:47:01 UTC
+**Last updated:** 2026-11-07 23:10:39 UTC
