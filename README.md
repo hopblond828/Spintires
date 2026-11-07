@@ -207,3 +207,6 @@ This repository serves as the official landing page for Spintires. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spintires today!**
+
+---
+**Last updated:** 2026-11-07 15:57:28 UTC
